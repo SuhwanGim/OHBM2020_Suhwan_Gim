@@ -1,10 +1,13 @@
-# OHBM2020_Suhwan_Gim
+# Description
 This repo is for poster presentation of OHBM2020
 
 ## Video abstract 
 (will be uploaded)
 
+## Trial strucutre 
+https://youtu.be/__mCOsZKnvc 
 
-Suhwan Gim 
+## Author
+Suhwan Gim (suhwan.gim.psych@gmail.com)
 
-suhwan.gim.psych@gmail.com 
+2020. 06.
